@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Catcher
+comment1.params=
+comment1.target=Catcher()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveRight()
+comment3.text=\r\n\ moveRight\ is\ the\ method\ that\ changes\ the\ location\ \r\n\ of\ the\ Car\ to\ move\ right\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ moveLeft()
+comment4.text=\r\n\ moveLeft\ is\ the\ method\ that\ changes\ the\ location\ \r\n\ of\ the\ Car\ to\ move\ left\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ checkForLeaf()
+numComments=6

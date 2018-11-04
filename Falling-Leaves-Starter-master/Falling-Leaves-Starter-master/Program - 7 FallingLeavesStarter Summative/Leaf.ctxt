@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Leaf
+comment1.params=imageNumber
+comment1.target=Leaf(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkParameters()
+numComments=4
